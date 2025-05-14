@@ -1,11 +1,22 @@
 ---
-title: "meholtam.github.io"
+title: "Mary Holtam"
+image: media/headshot.jpeg
+toc: false
+about:
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links: 
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/maryholtam/
+    - text: GitHub
+      href: https://github.com/maryholtam
+    - text: Email
+      href: mailto:meholtam@gmail.com
 ---
 
-This is a Quarto website.
+Welcome! Thank you for visiting my site.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am a 3rd-year student at the University of California, Santa Barbara, pursuing a Bachelor's of Science in Environmental Studies to drive change through science and policy. I am the president of the Isla Vista Surfrider Foundation and am passionate about the intersection between ocean accessibility, conservation, and the surf industry.
 
-```{r}
-1 + 1
-```
+On this site, you'll find more about my work, passions, and projects. Feel free to explore - and reach out if you'd like to collaborate or connect!

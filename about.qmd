@@ -1,8 +1,16 @@
 ---
 title: "About Me"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
+format:
+  html:
+    toc: true
+---
+
+# About Me
+
+## Education
+
+## Professional Experience
+
+## Skills
+
 ---

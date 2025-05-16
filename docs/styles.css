@@ -1,0 +1,18 @@
+/* css styles */
+/* Change background color and font */
+body {
+  font-family: 'Ogg', serif;
+  background-color: mintcream;
+  color: #111111;
+}
+
+/* Customize navigation bar */
+.navbar {
+  background-color: teal;
+  color: #e6f2e6;
+}
+
+/* Change link color */
+a {
+  color: indigo;
+}

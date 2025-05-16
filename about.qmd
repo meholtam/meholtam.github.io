@@ -1,11 +1,11 @@
 ---
 title: "About Me"
 listing:
-    type: blog 
-    contents: posts
-    sort: "date desc"
-    type: default 
-    categories: true
+  type: blog 
+  contents: posts
+  sort: "date desc"
+  categories: true
+format: html
 ---
 
 ## Education

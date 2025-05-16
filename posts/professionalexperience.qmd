@@ -2,8 +2,8 @@
 title: "Professional Experience"
 description: My experiences related to the sustainability, conservation, and ocean accessibilty field, outside of my work with the Surfrider Foundation. 
 categories: [experience, sustainability, work, career]
-image: media/sealeague.jpeg
-thumbnail: media/sealeague.jpeg
+image: sealeague.jpeg
+thumbnail: sealeague.jpeg
 date: 5/15/25
 date modified: 
 theme: minty

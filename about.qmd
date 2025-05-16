@@ -3,7 +3,7 @@ title: "About Me"
 format: 
   html:
     toc: true
-    theme: degault
+    theme: default
     code-fold: false
     include-in-header: false
 ---

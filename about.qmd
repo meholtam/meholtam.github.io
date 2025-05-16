@@ -7,9 +7,11 @@ format:
 
 ## Education
 
-**Bachelor of Science, Environmental Studies
-Concentration in marine biology**  
+**Bachelor of Science, Environmental Studies**
+*Concentration in marine biology*
 <span class="school">University of California, Santa Barbara</span>
+
+<br>
 
 **UC Education Abroad Program, Marine Biology and Terrestrial Ecology**  
 <span class="school">The University of Queensland</span>

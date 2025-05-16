@@ -1,7 +1,14 @@
 ---
 title: "About Me"
-format: html
+format: 
+  html:
+    toc: true
+    theme: degault
+    code-fold: false
+    include-in-header: false
 ---
+
+##About me {.tabset}
 
 ## Education
 
@@ -25,7 +32,9 @@ Physics, chemistry, biology, oceanography, statistics and data science, calculus
 
 The Surfrider Foundation is a nonprofit organization dedicated to the protection and enjoyment of the world's oceans, waves, and beaches for all people, supported by a powerful activist network. I have been involved with the organization for the past seven years and remain deeply aligned with its goals- from reducing plastic pollution and promoting beach access to protecting clean water. Please continue reading to learn more about my work with the foundation.
 
-## President, Isla Vista Student Club
+### President, Isla Vista Club
+
+2025-present
 
 The Surfrider Foundation Isla Vista club is one of the most active Surfrider student clubs in the world, and among the largest environmental organizations at UCSB. Our club is made up of 125 members and 9 committees. I served as vice president for a year before being elected co-president. My duties and accomplishments in this role include:
 
@@ -38,6 +47,58 @@ The Surfrider Foundation Isla Vista club is one of the most active Surfrider stu
 -   Planning speaker events with famous world champion surfers, local business owners, and artists
 
 -   Handling club communications, outreach to local businesses and national partners, and recruitment in the fall
+
+### Club Leadership Council Member
+
+2025-present
+
+Selected into a group of 14 Surfrider club leaders from across the country.
+
+-   Monthly meetings and trainings to develop advocacy and leadership skills
+
+-   Presented to legislators at Hill Day in Washington DC and California Oceans Day in Sacramento to advocate for bills that reduce plastic, restrict offshore drilling, and protect clean water.
+
+### Rise Above Plastic Committee Member- Isla Vista Club
+
+2022-2024
+
+Was admitted onto this committee during my freshman year at UCSB and served for a year before being elected vice-president.
+
+-   Canvassed door-to-door to homes in Isla Vista to provide educational materials on recycling
+
+-   Organized petition in support of reduced plastic usage at UCSB dining halls
+
+-   Created weekly "Trash Talk Tuesday" posts to educate Instagram users about plastic and waste reduction
+
+-   Designed sign to post at local beaches that displays the current water quality
+
+### President, La Costa Canyon High School Club
+
+2021-2022
+
+-   Arranged beach cleanups, fundraising campaigns, and biweekly meetings with members
+
+<!-- -->
+
+-   Contacted over fifty San Diego County restaurants to inform them about the Ocean Friendly Restaurants program. Successfully helped to implement this program in multiple restaurants to prioritize plastic reduction, proper recycling, and sustainable food practices.
+
+### Ocean Friendly Restaurants Volunteer, San Diego Chapter
+
+2023 - present
+
+-   Visits and contacts restaurants in San Diego County to inform them about the Ocean Friendly Restaurants program which helps transition eateries to more sustainable practices
+
+-   Tables at events such as beach cleanups to bring awareness to this committee
+
+-   Acted in a training video that is shown to future volunteers
+
+### Plastic Bag Ban Advocate, Surfrider Connecticut
+
+2019
+
+-   Corresponded with Skip the Plastic Norwalk
+
+-   Represented the youth voice by petitioning, presenting, and speaking at city council meetings to successfully campaign for a plastic bag ban in New Canaan and Norwalk, CT
 
 ## Professional Experience
 

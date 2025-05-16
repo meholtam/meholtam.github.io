@@ -6,30 +6,35 @@ format: html
 ## Education
 
 ### Bachelor of Science, Environmental Studies
-Concentration in Marine Biology<br>
-September 2022-June 2026<br>
-*University of California, Santa Barbara*
+
+Concentration in Marine Biology<br> September 2022 - June 2026<br> *University of California, Santa Barbara*
 
 ### UC Education Abroad Program, Marine Biology and Terrestrial Ecology
-August-November 2024<br>
-*The University of Queensland, Australia*
- During this three month program, I gained valuable research and field study experience. I completed two research projects- one focused on fish-feeding patterns and the other on microplastic deposition in sediment. You can find more details about these studies in the projects tab. I also conducted field work in Lamington National Park and Carnarvon Gorge, where I developed practical skills such as species identification, quadrat sampling, and transect surveys.  
- 
+
+August - November 2024<br> *The University of Queensland, Australia*<br> During this three month program, I gained valuable research and field study experience. I completed two research projects- one focused on fish-feeding patterns and the other on microplastic deposition in sediment. You can find more details about these studies in the projects tab. I also conducted field work in Lamington National Park and Carnarvon Gorge, where I developed practical skills such as species identification, quadrat sampling, and transect surveys.
+
 ### Relevant Coursework
-Physics, chemistry, biology, oceanography, statistics and data science,  
+
+Physics, chemistry, biology, oceanography, statistics and data science, calculus, agroecology
 
 ## My Work With The Surfrider Foundation
 
-### The Surfrider Foundation 
+The Surfrider Foundation is a nonprofit organization dedicated to the protection and enjoyment of the world's oceans, waves, and beaches for all people, supported by a powerful activist network. I have been involved with the organization for the past seven years and remain deeply aligned with its goals- from reducing plastic pollution and promoting beach access to protecting clean water. Please continue reading to learn more about my work with the foundation.
 
+## President, Isla Vista Student Club
+
+The Surfrider Foundation Isla Vista club is one of the most active Surfrider student clubs in the world, and among the largest environmental organizations at UCSB. Our club is made up of 125 members and 9 committees.
+
+## Professional Experience
 
 ## Skills and Certifications
 
-### Relevant Skills 
+### Relevant Skills
+
 Coding in R, field research, microscope use, working with children, science communication, community outreach, social media management, public speaking, and Spanish
 
 ### Certifications
-CPR and first aid certified by the American Red Cross
-California State Seal of Biliteracy in English and Spanish 
 
----
+CPR and first aid certified by the American Red Cross<br> California State Seal of Biliteracy in English and Spanish
+
+------------------------------------------------------------------------

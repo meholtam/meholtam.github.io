@@ -15,7 +15,6 @@ website:
       - href: projects.qmd
         text: Projects
   page-navigation: true
-  site-url: "https://maryholtam.com"
 
 format:
   html:

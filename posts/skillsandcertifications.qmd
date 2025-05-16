@@ -1,0 +1,17 @@
+---
+title: "Skills and Certifications"
+categories: [education]
+date: 5/15/25
+date modified: 
+theme: minty
+---
+
+## Skills and Certifications
+
+### Relevant Skills
+
+Coding in R, field research, microscope use, working with children, science communication, community outreach, social media management, public speaking, and Spanish
+
+### Certifications
+
+CPR and first aid certified by the American Red Cross<br> California State Seal of Biliteracy in English and Spanish

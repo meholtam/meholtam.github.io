@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 listing:
-  type: blog 
+  type: grid 
   contents: posts
   sort: "date desc"
   categories: true

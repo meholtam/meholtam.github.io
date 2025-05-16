@@ -5,12 +5,12 @@ format: html
 
 ## Education
 
-Bachelor of Science, Environmental Studies
+### Bachelor of Science, Environmental Studies
 Concentration in Marine Biology
-University of California, Santa Barbara
+*University of California, Santa Barbara*
 
-UC Education Abroad Program, Marine Biology and Terrestrial Ecology
-The University of Queensland, Australia
+### UC Education Abroad Program, Marine Biology and Terrestrial Ecology
+*The University of Queensland, Australia*
 
 ## Professional Experience
 

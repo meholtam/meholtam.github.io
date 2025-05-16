@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Bachelor of Science, Environmental Studies Concentration in Marine Biology University of California, Santa Barbara\nUC Education Abroad Program, Marine Biology and Terrestrial Ecology The University of Queensland, Australia"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "Bachelor of Science, Environmental Studies Concentration in Marine Biology University of California, Santa Barbara\nUC Education Abroad Program, Marine Biology and Terrestrial Ecology The University of Queensland, Australia"
+  },
+  {
+    "objectID": "about.html#professional-experience",
+    "href": "about.html#professional-experience",
+    "title": "About Me",
+    "section": "Professional Experience",
+    "text": "Professional Experience"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About Me",
+    "section": "Skills",
+    "text": "Skills"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Mary Holtam",

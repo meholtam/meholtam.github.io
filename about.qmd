@@ -7,13 +7,29 @@ format: html
 
 ### Bachelor of Science, Environmental Studies
 Concentration in Marine Biology<br>
+September 2022-June 2026<br>
 *University of California, Santa Barbara*
 
 ### UC Education Abroad Program, Marine Biology and Terrestrial Ecology
+August-November 2024<br>
 *The University of Queensland, Australia*
+ During this three month program, I gained valuable research and field study experience. I completed two research projects- one focused on fish-feeding patterns and the other on microplastic deposition in sediment. You can find more details about these studies in the projects tab. I also conducted field work in Lamington National Park and Carnarvon Gorge, where I developed practical skills such as species identification, quadrat sampling, and transect surveys.  
+ 
+### Relevant Coursework
+Physics, chemistry, biology, oceanography, statistics and data science,  
 
-## Professional Experience
+## My Work With The Surfrider Foundation
 
-## Skills
+### The Surfrider Foundation 
+
+
+## Skills and Certifications
+
+### Relevant Skills 
+Coding in R, field research, microscope use, working with children, science communication, community outreach, social media management, public speaking, and Spanish
+
+### Certifications
+CPR and first aid certified by the American Red Cross
+California State Seal of Biliteracy in English and Spanish 
 
 ---

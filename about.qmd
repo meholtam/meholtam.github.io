@@ -1,13 +1,11 @@
 ---
 title: "About Me"
-format: 
-  html:
-    toc: true
-    theme: default
-    code-fold: false
+listing:
+    contents: posts
+    sort: "date desc"
+    type: default 
+    categories: true
 ---
-
-##About me {.tabset}
 
 ## Education
 

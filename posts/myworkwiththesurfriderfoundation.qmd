@@ -2,6 +2,7 @@
 title: "My Work With the Surfrider Foundation"
 categories: [career, surfrider]
 image: media/capitol.jpeg
+thumbnail: media/capitol.jpeg
 date: 5/15/25
 date modified: 
 theme: minty

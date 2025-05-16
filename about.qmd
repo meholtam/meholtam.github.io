@@ -7,3 +7,5 @@ listing:
   categories: true
 format: html
 ---
+
+I am a third year environmental science student at UC Santa Barbara. I am a passionate environmental advocate, ocean lover, and surfer. I hope to pursue a career in environmental policy and science, pushing for accessible oceans for all people. Click on any of the links below to learn about my education, experience with The Surfrider Foundation, professional experience, or skills and certifications!

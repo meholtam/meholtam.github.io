@@ -1,6 +1,7 @@
 ---
 title: "Education"
 categories: [education]
+image: media/shark.jpeg
 date: 5/15/25
 date modified: 
 theme: minty

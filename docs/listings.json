@@ -1,12 +1,7 @@
 [
   {
-    "listing": "/about.html",
-    "items": [
-      "/posts/myworkwiththesurfriderfoundation.html",
-      "/posts/skillsandcertifications.html",
-      "/posts/education.html",
-      "/posts/professionalexperience.html"
-    ]
+    "listing": "/surfandtravel.html",
+    "items": []
   },
   {
     "listing": "/projects.html",
@@ -14,6 +9,15 @@
       "/posts2/howImadethiswebsite.html",
       "/posts2/stradbroke.html",
       "/posts2/heronresearch.html"
+    ]
+  },
+  {
+    "listing": "/about.html",
+    "items": [
+      "/posts/myworkwiththesurfriderfoundation.html",
+      "/posts/skillsandcertifications.html",
+      "/posts/education.html",
+      "/posts/professionalexperience.html"
     ]
   }
 ]

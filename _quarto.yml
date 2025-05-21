@@ -16,6 +16,8 @@ website:
         text: Projects
       - href: resume.qmd
         text: Resume
+      - href: surfandtravel.qmd
+        text: Surfing and Travel
   page-navigation: true
 
 format:

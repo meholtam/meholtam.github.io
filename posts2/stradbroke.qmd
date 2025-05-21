@@ -1,0 +1,15 @@
+---
+title: "North Stradbroke Research Project"
+categories: [research]
+image: straddy.jpg
+thumbnail: straddy.jpg
+date: 5/15/25
+date modified: 
+theme: minty
+---
+
+While studying abroad at the University of Queensland, I had the opportunity to complete a research project while staying at the Moreton Bay Research Station on Minjerribah, North Stradbroke Island, Queensland.
+
+The project studied the concentration of microplastics in sediment cores to determine whether the deposition in sediment has increased over time.
+
+Please read the paper below to find out more.

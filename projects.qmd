@@ -1,3 +1,11 @@
 ---
 title: "Projects"
+listing:
+  type: grid 
+  contents: posts2
+  sort: "date desc"
+  categories: true
+format: html
 ---
+
+Please click the links below to learn more about my various educational projects and research. This includes research done on anthropogenic sea walls effects on fish feeding patterns on the Great Barrier Reef; deposition of micro plastics in sediment in Queensland, Australia; and information about how I built this website using R-Studio and Quarto Markdown.

@@ -7,5 +7,13 @@
       "/posts/education.html",
       "/posts/professionalexperience.html"
     ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/posts2/howImadethiswebsite.html",
+      "/posts2/stradbroke.html",
+      "/posts2/heronresearch.html"
+    ]
   }
 ]

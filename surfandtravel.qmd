@@ -1,0 +1,9 @@
+---
+title: "Surfing and Travel"
+listing:
+  type: grid 
+  contents: surfandtravel
+  sort: "date desc"
+  categories: true
+format: html
+---

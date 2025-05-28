@@ -3,6 +3,7 @@ title: "My Work With the Surfrider Foundation"
 categories: [career, surfrider]
 image: capitol.jpeg
 thumbnail: capitol.jpeg
+description: My involvement with The Surfrider Foundation, including my presidency at the Isla Vista club and volunteer work. 
 date: 5/15/25
 date modified: 
 theme: minty

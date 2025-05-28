@@ -3,6 +3,7 @@ title: "North Stradbroke Research Project"
 categories: [research]
 image: straddy.jpg
 thumbnail: straddy.jpg
+description: Distribution of microplastics in sediment cores to determine whether the deposition in sediment has increased over time. 
 date: 5/15/25
 date modified: 
 theme: minty

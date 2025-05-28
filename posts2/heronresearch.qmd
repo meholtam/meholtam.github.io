@@ -11,3 +11,5 @@ theme: minty
 While studying abroad at the University of Queensland, I lived at the university owned Heron Island research station. While here, I conducted my own research project looking at the effects on fish mobility and feeding patterns of a man-made sea wall that was added to the Great Barrier Reef.
 
 My paper is embedded below. Read on if interested!
+
+[Paper Embedded Here](papers/MaryHoltamHeronIslandresearch.pdf)

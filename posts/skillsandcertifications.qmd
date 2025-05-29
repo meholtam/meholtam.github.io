@@ -5,6 +5,7 @@ image: snorkel.jpeg
 thumbnail: snorkel.jpeg
 date: 5/15/25
 date modified: 
+Description: Relevant skills and certifications
 theme: minty
 ---
 

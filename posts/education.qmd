@@ -5,6 +5,7 @@ image: shark.jpeg
 thumbnail: shark.jpeg
 date: 5/15/25
 date modified: 
+description: Environmental studies student at UC Santa Barbara with a concentration in marine biology. Studied abroad at the University of Queensland. Relevant coursework attached. 
 theme: minty
 ---
 

@@ -1,9 +1,14 @@
 ---
 title: "Surfing and Travel"
-listing:
-  type: grid 
-  contents: surfandtravel
-  sort: "date desc"
-  categories: true
 format: html
 ---
+
+I am so grateful to have had the opportunity to travel around the world and to surf in so many amazing places! As a surfer, the ocean is a second home to me, and this is one of the reasons I am so motivated to be an advocate for the ocean. Traveling and witnessing so much beautiful nature has left me even more empowered to protect it.
+
+ADD IN INTERACTIVE MAP OF EVERYWHERE I HAVE SURFED
+
+-encinitas, cardiff, carlsbad, del mar, la saladita, santa barbara, IV, ventura, rincon, malibu, trestles, santa cruz, morro bay, crescent head, north stradbroke island, noosa, angourie heads, piha, waipu cove, raglan, mount manganui, gisborne, nosara, maine, rhode island
+
+ADD IN PHOTO GALLERY
+
+photo gallery contents:

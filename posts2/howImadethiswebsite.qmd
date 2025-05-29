@@ -1,8 +1,8 @@
 ---
 title: "How I Made This Website"
 categories: [coding in R]
-image: straddy.jpg
-thumbnail: straddy.jpg
+image: website.jpg
+thumbnail: website.jpg
 description: Information about how I created and coded this website using GitHub and Quarto. 
 date: 5/28/25
 date modified: 

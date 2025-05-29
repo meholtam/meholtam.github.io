@@ -9,6 +9,6 @@ ADD IN INTERACTIVE MAP OF EVERYWHERE I HAVE SURFED
 
 -encinitas, cardiff, carlsbad, del mar, la saladita, santa barbara, IV, ventura, rincon, malibu, trestles, santa cruz, morro bay, crescent head, north stradbroke island, noosa, angourie heads, piha, waipu cove, raglan, mount manganui, gisborne, nosara, maine, rhode island
 
-ADD IN PHOTO GALLERY
-
-photo gallery contents:
+::: {.grid columns="3"}
+![](img1.jpg) ![](img2.jpg) ![](img3.jpg) ![](img4.jpg) ![](img5.jpg) ![](img6.jpg)
+:::

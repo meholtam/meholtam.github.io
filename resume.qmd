@@ -3,8 +3,6 @@ title: "Resume"
 format: html
 ---
 
-# Resume
-
 ## Experience
 
 ### The Surfrider Foundation

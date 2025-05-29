@@ -29,5 +29,8 @@ format:
 
 editor: visual
 
-resources: posts2/
+resources:
+  - posts2/
+  - papers/
+
 

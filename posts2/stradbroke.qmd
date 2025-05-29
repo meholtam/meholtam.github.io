@@ -15,4 +15,4 @@ The project studied the concentration of microplastics in sediment cores to dete
 
 Please read the paper below to find out more.
 
-[Access Paper Here](papers/MaryHoltamMoretonBayResearch.prf)\
+[Access Paper Here](papers/MaryHoltamMoretonBayResearch.pdf)

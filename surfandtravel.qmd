@@ -11,25 +11,25 @@ I am so grateful to have had the opportunity to travel around the world and to s
 
 ### Photos from my Surf Travels
 
-:::::::: {.grid columns="3"}
+:::::::: {.grid columns="2"}
 ::: column
-![Logging in Noosa, on the sunshine coast of Australia](img1.jpg){fig-align="center" fig-width="6"}
+![Logging in Noosa, on the sunshine coast of Australia](img1.jpg){fig-align="center"}
 :::
 
 ::: column
-![Cylinder Beach, North Stradbroke Island- Queensland, Australia](img2.jpg){fig-align="center" fig-width="6"}
+![Cylinder Beach, North Stradbroke Island - Queensland, Australia](img2.jpg){fig-align="center"}
 :::
 
 ::: column
-![Pipes in Encinitas, California- my home break!](img4.jpg){fig-align="center" fig-width="6"}
+![Pipes in Encinitas, California - my home break!](img4.jpg){fig-align="center"}
 :::
 
 ::: column
-![Crescent Head Australia!](img5.jpg){fig-align="center" fig-width="6"}
+![Crescent Head, Australia!](img5.jpg){fig-align="center"}
 :::
 
 ::: column
-![Manu Bay, Raglan, New Zealand](img6.jpg){fig-align="center" fig-width="6"}
+![Manu Bay, Raglan, New Zealand](img6.jpg){fig-align="center"}
 :::
 ::::::::
 

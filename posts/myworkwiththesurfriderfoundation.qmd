@@ -13,6 +13,8 @@ theme: minty
 
 The Surfrider Foundation is a nonprofit organization dedicated to the protection and enjoyment of the world's oceans, waves, and beaches for all people, supported by a powerful activist network. I have been involved with the organization for the past seven years and remain deeply aligned with its goals- from reducing plastic pollution and promoting beach access to protecting clean water. Please continue reading to learn more about my work with the foundation.
 
+![](concert.jpeg){width="100%" fig-align="center"}
+
 ### President, Isla Vista Club
 
 2025-present
@@ -80,3 +82,4 @@ Was admitted onto this committee during my freshman year at UCSB and served for 
 -   Corresponded with Skip the Plastic Norwalk
 
 -   Represented the youth voice by petitioning, presenting, and speaking at city council meetings to successfully campaign for a plastic bag ban in New Canaan and Norwalk, CT
+

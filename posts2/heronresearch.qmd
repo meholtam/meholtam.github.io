@@ -1,8 +1,8 @@
 ---
 title: "Heron Island Research Project"
 categories: [research]
-image: researchboat.jpeg
-thumbnail: researchboat.jpeg
+image: heronresearch.jpg
+thumbnail: heronresearch.jpg
 description: Effects of man-made sea wall on fish mobility and feeding patterns on the Great Barrier Reef 
 date: 5/15/25
 date modified: 

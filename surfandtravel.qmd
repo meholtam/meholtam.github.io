@@ -5,10 +5,38 @@ format: html
 
 I am so grateful to have had the opportunity to travel around the world and to surf in so many amazing places! As a surfer, the ocean is a second home to me, and this is one of the reasons I am so motivated to be an advocate for the ocean. Traveling and witnessing so much beautiful nature has left me even more empowered to protect it.
 
+::: {.grid columns="3"}
+![](img1.jpg){width="100%"} ![](img2.jpg){width="100%"} ![](img3.jpg){width="100%"} ![](img4.jpg){width="100%"} ![](img5.jpg){width="100%"} ![](img6.jpg){width="100%"}
+:::
+
 ADD IN INTERACTIVE MAP OF EVERYWHERE I HAVE SURFED
 
 -encinitas, cardiff, carlsbad, del mar, la saladita, santa barbara, IV, ventura, rincon, malibu, trestles, santa cruz, morro bay, crescent head, north stradbroke island, noosa, angourie heads, piha, waipu cove, raglan, mount manganui, gisborne, nosara, maine, rhode island
 
 ::: {.grid columns="3"}
-![](img1.jpg) ![](img2.jpg) ![](img4.jpg) ![](img5.jpg) ![](img6.jpg)
+
+::: {.column}
+![Logging in Noosa, on the sunshine coast of Australia](img1.jpg){fig-align="center" width=100%}
+:::
+
+::: {.column}
+![Cylinder Beach, North Stradbroke Island- Queensland, Australia](img2.jpg){fig-align="center" width=100%}
+:::
+
+::: {.column}
+![Straddy 3](img3.jpg){fig-align="center" width=100%}
+:::
+
+::: {.column}
+![Pipes in Encinitas, California- my home break!](img4.jpg){fig-align="center" width=100%}
+:::
+
+::: {.column}
+![Crescent Head Australia!](img5.jpg){fig-align="center" width=100%}
+:::
+
+::: {.column}
+![Manu Bay, Raglan, New Zealand](img6.jpg){fig-align="center" width=100%}
+:::
+
 :::

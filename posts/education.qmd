@@ -11,6 +11,8 @@ theme: minty
 
 ## Education
 
+![](shark.jpeg){width="100%" fig-align="center"}
+
 ### Bachelor of Science, Environmental Studies
 
 Concentration in Marine Biology<br> September 2022 - June 2026<br> *University of California, Santa Barbara*

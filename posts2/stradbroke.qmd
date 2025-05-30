@@ -9,9 +9,7 @@ date modified:
 theme: minty
 ---
 
-```         
-![Straddy](posts2/straddy.jpg)
-```
+![](straddy.jpg){width="100%" fig-align="center"}
 
 While studying abroad at the University of Queensland, I had the opportunity to complete a research project while staying at the Moreton Bay Research Station on Minjerribah, North Stradbroke Island, Queensland.
 

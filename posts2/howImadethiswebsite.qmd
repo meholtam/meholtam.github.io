@@ -9,6 +9,8 @@ date modified:
 theme: minty
 ---
 
+![](img1.jpg){width="100%" fig-align="center"}
+
 Thank you so much for visiting my website!!
 
 I coded this website myself using Quarto and R-Studio. I learned these skills in my Statistics for Environmental Science class at UC Santa Barbara, ENVS193DS. Thank you to An Bui and Thuy-Tien Bui for their mentorship and support in building this website!

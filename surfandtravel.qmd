@@ -5,9 +5,11 @@ format: html
 
 I am so grateful to have had the opportunity to travel around the world and to surf in so many amazing places! As a surfer, the ocean is a second home to me, and this is one of the reasons I am so motivated to be an advocate for the ocean. Traveling and witnessing so much beautiful nature has left me even more empowered to protect it.
 
-ADD IN INTERACTIVE MAP OF EVERYWHERE I HAVE SURFED
+### Map of Everywhere I Have Surfed
 
 -encinitas, cardiff, carlsbad, del mar, la saladita, santa barbara, IV, ventura, rincon, malibu, trestles, santa cruz, morro bay, crescent head, north stradbroke island, noosa, angourie heads, piha, waipu cove, raglan, mount manganui, gisborne, nosara, maine, rhode island
+
+### Photos from my Surf Travels
 
 :::::::: {.grid columns="3"}
 ::: column
@@ -19,14 +21,38 @@ ADD IN INTERACTIVE MAP OF EVERYWHERE I HAVE SURFED
 :::
 
 ::: column
-![Pipes in Encinitas, California- my home break!](img4.jpg){fig-align="center" fig-width=6}
+![Pipes in Encinitas, California- my home break!](img4.jpg){fig-align="center" fig-width="6"}
 :::
 
 ::: column
-![Crescent Head Australia!](img5.jpg){fig-align="center" fig-width=6}
+![Crescent Head Australia!](img5.jpg){fig-align="center" fig-width="6"}
 :::
 
 ::: column
-![Manu Bay, Raglan, New Zealand](img6.jpg){fig-align="center" fig-width=6}
+![Manu Bay, Raglan, New Zealand](img6.jpg){fig-align="center" fig-width="6"}
 :::
 ::::::::
+
+### Next On My Surf Bucket List
+
+I feel so grateful to have had the chance to surf all over my home state of California, as well as extensively in Australia, New Zealand, and Mexico! My dream is to travel the world one surf town at a time. Below is my bucket list of places I would love to surf:
+
+-   Bali, Indonesia
+
+-   Tahiti
+
+-   Kamakura, Japan
+
+-   North Shore, Oahu, Hawaii
+
+-   Portugal
+
+-   Nicaragua
+
+-   The Oregon Coast
+
+-   Hossegor, France
+
+-   San Sebastian, Spain
+
+-   Tofino, Canada

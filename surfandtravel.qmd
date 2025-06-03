@@ -7,7 +7,64 @@ I am so grateful to have had the opportunity to travel around the world and to s
 
 ### Map of Everywhere I Have Surfed
 
--encinitas, cardiff, carlsbad, del mar, la saladita, santa barbara, IV, ventura, rincon, malibu, trestles, santa cruz, morro bay, crescent head, north stradbroke island, noosa, angourie heads, piha, waipu cove, raglan, mount manganui, gisborne, nosara, maine, rhode island
+##  Interactive Surf Map
+
+```{r}
+library(leaflet)
+library(leaflet.extras)
+library(tidyverse)
+
+# Load your surf data (make sure the CSV is in the "data/" folder)
+surf_data <- read_csv("surfandtravel/surf_spots.csv") %>%
+  rename_with(tolower) %>%  # makes column names lowercase
+  rename(
+    site = site,
+    city = city,
+    lat = lat,
+    lon = lon,
+    country = country,
+    wave_type = `wave type`,
+    notes = notes
+  ) %>%
+  filter(site != "Cardiff Reef")  # hides Cardiff Reef
+
+# Build the map
+surf_map <- leaflet(data = surf_data, options = leafletOptions(worldCopyJump = TRUE)) %>%
+  addProviderTiles(providers$Esri.WorldImagery, group = "Satellite View") %>%
+  addProviderTiles(providers$OpenStreetMap, group = "Street Map") %>%
+
+  addMiniMap(toggleDisplay = TRUE, minimized = TRUE) %>%
+
+  # Start with a global view
+  setView(lng = 0, lat = 0, zoom = 2) %>%
+
+  addMarkers(
+    lng = ~lon,
+    lat = ~lat,
+    popup = ~paste0(
+      "<b>", site, "</b><br>",
+      city, ", ", country, "<br>",
+      "Wave type: ", wave_type, "<br>",
+      "<i>", notes, "</i>"
+    ),
+    group = "Surf Spots"
+  ) %>%
+
+  addLayersControl(
+    baseGroups = c("Satellite View", "Street Map"),
+    overlayGroups = c("Surf Spots")
+  ) %>%
+
+  addResetMapButton()
+
+# Display the map
+surf_map
+```
+
+
+```
+
+
 
 ### Photos from my Surf Travels
 

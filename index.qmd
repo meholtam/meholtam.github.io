@@ -12,7 +12,7 @@ about:
       href: https://www.linkedin.com/in/maryholtam/
     - icon: github
       text: GitHub
-      href: https://github.com/maryholtam
+      href: https://github.com/meholtam/meholtam.github.io 
     - icon: envelope
       text: Email
       href: "mailto:meholtam@gmail.com"

@@ -39,7 +39,7 @@ surf_map <- leaflet(data = surf_data, options = leafletOptions(worldCopyJump = T
   addMiniMap(toggleDisplay = TRUE, minimized = TRUE) %>%
 
   # Start with a global view
-  setView(lng = -98.5795, lat = 39.8283, zoom = 6) %>%
+  setView(lng = -98.5795, lat = 39.8283, zoom = 2) %>%
 
   addMarkers(
     lng = ~lon,

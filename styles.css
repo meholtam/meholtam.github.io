@@ -16,3 +16,15 @@ body {
 a {
   color: indigo;
 }
+ 
+
+/* Customize headers */
+h1 {
+  color: #003333;
+  letter-spacing: 5px;
+}
+h2 {
+  color: #004d4d;
+  letter-spacing: 5px;
+}
+

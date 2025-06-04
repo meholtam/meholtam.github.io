@@ -23,6 +23,7 @@ website:
 format:
   html:
     theme: minty
+    mainfont: Lora
     css: styles.css
     toc: true
     page-layout: full

@@ -5,10 +5,9 @@ format: html
 
 I am so grateful to have had the opportunity to travel around the world and to surf in so many amazing places! As a surfer, the ocean is a second home to me, and this is one of the reasons I am so motivated to be an advocate for the ocean. Traveling and witnessing so much beautiful nature has left me even more empowered to protect it.
 
-
 ## Interactive Map of Everywhere I Have Surfed!
 
-### Press on the icons below to see more details including the surf spot name, country, type of break, and notes about my experience.
+### Press on the icons below to see more details including the surf spot name, country, type of break, and notes about my experience. 
 
 ```{r}
 #| echo: false
@@ -98,4 +97,3 @@ I feel so grateful to have had the chance to surf all over my home state of Cali
 -   San Sebastian, Spain
 
 -   Tofino, Canada
-

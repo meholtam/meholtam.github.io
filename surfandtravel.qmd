@@ -11,6 +11,8 @@ I am so grateful to have had the opportunity to travel around the world and to s
 
 ```{r}
 #| echo: false
+#| message: false
+#| warning: false
 library(leaflet)
 library(leaflet.extras)
 library(tidyverse)
@@ -37,7 +39,7 @@ surf_map <- leaflet(data = surf_data, options = leafletOptions(worldCopyJump = T
   addMiniMap(toggleDisplay = TRUE, minimized = TRUE) %>%
 
   # Start with a global view
-  setView(lng = 0, lat = 0, zoom = 2) %>%
+  setView(lng = -98.5795, lat = 39.8283, zoom = 4) %>%
 
   addMarkers(
     lng = ~lon,

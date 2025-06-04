@@ -6,6 +6,7 @@ project:
 
 website:
   title: "Mary Holtam"
+  icon: water
   navbar:
     left:
       - href: index.qmd
@@ -18,6 +19,16 @@ website:
         text: Resume
       - href: surfandtravel.qmd
         text: Surfing and Travel
+    right:
+      - icon: envelope
+        text: Email
+        href: "mailto:meholtam@gmail.com"
+      - icon: github
+        text: GitHub
+        href: https://github.com/meholtam/meholtam.github.io
+      - icon: linkedin
+        text: LinkedIn
+        href: www.linkedin.com/in/maryholtam/
   page-navigation: true
 
 format:

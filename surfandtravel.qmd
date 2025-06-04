@@ -16,7 +16,7 @@ library(leaflet.extras)
 library(tidyverse)
 
 # Load your surf data (make sure the CSV is in the "data/" folder)
-surf_data <- read_csv("surfandtravel/surf_data.csv") %>%
+surf_data <- read_csv("surfandtravel/surf_data.csv", show_col_types = FALSE) %>%
   rename_with(tolower) %>%  # makes column names lowercase
   rename(
     site = site,

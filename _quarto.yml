@@ -6,7 +6,6 @@ project:
 
 website:
   title: "Mary Holtam"
-  icon: water
   navbar:
     left:
       - href: index.qmd

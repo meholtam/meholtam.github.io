@@ -7,7 +7,7 @@ I am so grateful to have had the opportunity to travel around the world and to s
 
 ## Interactive Map of Everywhere I Have Surfed!
 
-### Press on the icons below to see more details including the surf spot name, country, type of break, and notes about my experience. 
+### Press on the icons below to see more details including the surf spot name, country, type of break, and notes about my experience.
 
 ```{r}
 #| echo: false

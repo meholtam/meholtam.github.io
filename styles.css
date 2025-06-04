@@ -21,10 +21,10 @@ a {
 /* Customize headers */
 h1 {
   color: #003333;
-  letter-spacing: 5px;
+  letter-spacing: normal;
 }
 h2 {
   color: #004d4d;
-  letter-spacing: 5px;
+  letter-spacing: normal;
 }
 
